@@ -1,0 +1,19 @@
+{
+  "name": "dragonstack-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mian-ali/dragonstack.git"
+  },
+  "author": "Ali Ahmad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mian-ali/dragonstack/issues"
+  },
+  "homepage": "https://github.com/mian-ali/dragonstack#readme"
+}
